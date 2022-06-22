@@ -58,7 +58,7 @@ https://iconscout.com/lotties/remote?price=free
     <a href="https://www.linkedin.com/in/iman-mesgaran-07936054/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/iman-mesgaran-07936054/" target="blank"><img align="center"
+    <a href="https://imanmesgaran.github.io/" target="blank"><img align="center"
             src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="portfolio" height="40"
             width="40" /></a>
      <!-- profile views -->
