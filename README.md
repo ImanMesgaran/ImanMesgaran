@@ -99,8 +99,8 @@ Here are some ideas to get you started:
             crossplatform: ["flutter", "xamarin"],
         },
         desktop: {
-            c#: ["console", "desktop"],
-            dart: ["console", "desktop"]
+            c#, 
+            dart,
         }
     }
 };
